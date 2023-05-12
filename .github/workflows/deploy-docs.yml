@@ -22,6 +22,7 @@ jobs:
       - run: npm run build
         env:
           TURBO_TOKEN: ca35s09dyeSlkXM0Ql6rPtQh
+          TURBO_TEAM: bernacle
 
       - name: Deploy storybook
         working-directory: ./packages/docs
