@@ -1,5 +1,11 @@
 # @simplicio-ui/react
 
+## 3.0.1
+
+### Patch Changes
+
+- Necessary changes for future project
+
 ## 3.0.0
 
 ### Major Changes
