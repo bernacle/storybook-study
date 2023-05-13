@@ -1,0 +1,2 @@
+import{A as t}from"./index.d84080f3.js";import"./index.d681b59e.js";import"./iframe.0e84f75c.js";import"./index.281e14a2.js";import"./jsx-runtime.16bd55a5.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/bernacle.png",alt:"Bruno Simplicio"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.063b4535.js.map
